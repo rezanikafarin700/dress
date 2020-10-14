@@ -3,7 +3,7 @@
 		<div style="width: 250px;margin: 0 auto">
 			<date-picker v-model="today"/>
 
-			{{ today }}
+			
 		</div>
 	</div>
 </template>
