@@ -6,7 +6,8 @@
 			{{ today }}
 		</div>
 
-		<h1>{{ today }}</h1>
+		<h1>I am in nik branch</h1>
+
 	</div>
 </template>
 
