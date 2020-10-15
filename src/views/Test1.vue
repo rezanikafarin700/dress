@@ -9,6 +9,7 @@
 		<h1>{{ today }}</h1>
 		<h2> Reza Nikafarin </h2>
 		<h6>new change of master branch</h6>
+		<p> text text text for test </p>
 	</div>
 </template>
 
