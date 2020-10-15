@@ -7,6 +7,7 @@
 		</div>
 
 		<h1>{{ today }}</h1>
+		<h2> Reza Nikafarin </h2>
 	</div>
 </template>
 
