@@ -8,6 +8,7 @@
 
 		<h1>{{ today }}</h1>
 		<h2> Reza Nikafarin </h2>
+		<h6>new change of master branch</h6>
 	</div>
 </template>
 
